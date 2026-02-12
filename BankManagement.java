@@ -105,7 +105,7 @@ public class BankManagement {
         return false;
     }
 
-    // Get Balance
+    
     public static void getBalance(int acNo) {
         if (con == null) {
             System.out.println("Database connection is not available.");
@@ -192,3 +192,4 @@ public class BankManagement {
         return false;
     }
 }
+
