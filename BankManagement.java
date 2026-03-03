@@ -7,7 +7,6 @@ public class BankManagement {
 
     private static final int NULL_VALUE = 0;
     static Connection con = DBConnection.getConnection();
-
     // Create Account
     public static boolean createAccount(String name, int passCode) {
         if (name == null || name.isEmpty() || passCode == NULL_VALUE) {
@@ -191,5 +190,6 @@ public class BankManagement {
         return false;
     }
 }
+
 
 
