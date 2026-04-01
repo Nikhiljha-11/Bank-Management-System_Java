@@ -4,7 +4,6 @@ A complete Bank Management System built using Java, JDBC, MySQL, and NetBeans / 
 The system supports account creation, login, deposit, withdrawal, balance check, and a secure database connection.
 
 Features:
-
 Create new bank accounts
 
 Login with credential validation
