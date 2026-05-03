@@ -22,5 +22,5 @@ Java (JDK 8/11/17)
 MySQL Database
 
 JDBC Driver
-
+Thank you For visiting our Platform
 VS Code
